@@ -1,0 +1,21 @@
+The sum of all the values in the array list is: 23
+***Testing if the elements are inserted in ascending order***
+Pass
+***Testing if the array size increases after adding new elements***
+Pass
+***Testing if the array size decreases and the elements are sorted after removeValue***
+Pass
+***Testing compact functionality***
+Pass
+***IndexOf returns -1 if the value doesnot exist***
+Pass
+***total number of elements increases after adding the values into the array***
+Pass
+***sum of all the elements of the array is decreased after removing few elements***
+pass
+***After removing a value from an array, it is also removed from the data structure***
+Pass
+***After calling compact function the array doesn't contain null***
+Pass
+***IndexOf returns the correct index if the value exists***
+Pass

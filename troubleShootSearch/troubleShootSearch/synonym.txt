@@ -1,0 +1,8 @@
+CPU:processor
+items:products
+crashed:Failed
+retrieve:recover
+unreachable:inaccessibility
+producer:manufacturer
+outside:external
+wire:cable

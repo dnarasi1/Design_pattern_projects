@@ -1,0 +1,4 @@
+Hard Disk Read Error Occurred.
+Request Failed Due to Fatal Device Hardware Error
+Most Common Hard Drive Error, Disk is Full
+Failures in the USB I/O cable running between the logic board and the External USB drive housing
